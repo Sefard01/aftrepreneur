@@ -1,7 +1,7 @@
 #  AFTERPRENEUR™
 
 <p align="center">
-  <img src="./assets/afterpreneur-banner.png" alt="Afterpreneur Banner" width="100%">
+  <img src="afterpreneur-banner.png" alt="Afterpreneur Banner" width="100%">
 </p>
 
 <p align="center">
